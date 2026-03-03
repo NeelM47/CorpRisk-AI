@@ -1,4 +1,3 @@
-```markdown
 # CorpRisk-AI: Multi-Agent Corporate Due Diligence System 🏦🤖
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
