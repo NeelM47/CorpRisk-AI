@@ -1,0 +1,124 @@
+LLOYDS BANKING GROUP PLC CONSOLIDATED FINANCIAL STATEMENTS – FISCAL YEAR 2025
+Company: Lloyds Banking Group plc
+Sector: Banking & Financial Services (Universal Bank)
+Headquarters: London, UK
+Reporting Date: 13 February 2026
+
+CONSOLIDATED INCOME STATEMENT (in £ millions)
+------------------------------------------------
+For the year ended 31 December 2025
+
+Net interest income: 13,230
+Fee and commission income: 3,118
+Fee and commission expense: (1,334)
+Net fee and commission income: 1,784
+Net trading income: 1,485
+Insurance service result: 756
+Net investment return on assets: (200)
+Other operating income: 2,367
+TOTAL INCOME: 19,422
+
+Operating expenses: (11,966)
+Impairment charge: (795)
+PROFIT BEFORE TAX: 6,661
+Tax expense: (1,904)
+PROFIT AFTER TAX: 4,757
+Attributable to ordinary shareholders: 4,196
+Attributable to other equity holders: 463
+
+Basic earnings per share: 7.0p
+Return on tangible equity (RoTE): 12.9%
+Cost:income ratio: 58.6%
+
+CONSOLIDATED BALANCE SHEET (in £ millions)
+------------------------------------------
+As at 31 December 2025
+
+ASSETS
+Cash and balances at central banks: 56,661
+Financial assets at fair value through P&L: 240,413
+Derivative financial instruments: 19,727
+Loans and advances to banks: 7,236
+Loans and advances to customers: 481,463
+Reverse repurchase agreements: 50,986
+Debt securities: 13,987
+Financial assets at amortised cost: 553,672
+Financial assets at FVOCI: 36,320
+Goodwill and intangible assets: 8,593
+Other assets: 20,655
+TOTAL ASSETS: 944,072
+
+LIABILITIES
+Deposits from banks: 5,779
+Customer deposits: 496,457
+Repurchase agreements at amortised cost: 38,570
+Financial liabilities at fair value through P&L: 27,909
+Derivative financial instruments: 16,132
+Debt securities in issue: 78,271
+Liabilities from insurance contracts: 135,284
+Liabilities from non-participating investment contracts: 61,640
+Other liabilities: 20,945
+Provisions: 2,888
+Subordinated liabilities: 9,894
+TOTAL LIABILITIES: 896,205
+
+EQUITY
+Share capital: 5,889
+Share premium account: 18,797
+Other reserves: 10,744
+Retained profits: 6,291
+Ordinary shareholders' equity: 41,721
+Other equity instruments: 5,947
+Non-controlling interests: 199
+TOTAL EQUITY: 47,867
+
+Net asset value per share: 57.0p
+Tangible net asset value per share: 57.0p
+Number of ordinary shares (millions): 58,886
+
+KEY METRICS BY DIVISION – PROFIT BEFORE TAX (in £ millions)
+----------------------------------------------------------
+Retail: 3,356
+Commercial Banking: 2,546
+Insurance, Pensions & Investments: 330
+Other (Equity Investments & Central): 545
+GROUP TOTAL (underlying): 6,777
+Statutory Profit: 6,661
+
+LOAN LOSS RATES (in basis points)
+----------------------------------
+Asset quality ratio: 17bps (0.17%)
+Underlying impairment charge: £795m
+
+CREDIT IMPAIRMENT CHARGES BY STAGE (in £ millions)
+--------------------------------------------------
+Stage 1: (15)
+Stage 2: (125)
+Stage 3: 999
+POCI: (64)
+TOTAL CREDIT IMPAIRMENT CHARGE: 795
+
+CAPITAL RATIOS
+--------------
+CET1 ratio: 14.0%
+Pro forma CET1 ratio (post-buyback): 13.2%
+Tier 1 capital ratio: 16.2%
+Total capital ratio: 18.9%
+UK leverage ratio: 5.4%
+Risk-weighted assets (RWAs): £235.5bn
+
+FUNDING & LIQUIDITY
+-------------------
+Liquidity Coverage Ratio: 145%
+Net Stable Funding Ratio: 124%
+Loan:deposit ratio: 97%
+LCR eligible assets: £131.4bn
+Wholesale funding: £99.4bn
+
+INTEREST RATE SENSITIVITY
+-------------------------
+Net interest income sensitivity to +25bps: +£109m (Year 1)
+Net interest income sensitivity to -25bps: -£131m (Year 1)
+Structural hedge notional balance: £244bn
+Average hedge duration: 3.75 years
+Structural hedge income: £5.5bn

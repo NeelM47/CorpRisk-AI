@@ -1,0 +1,146 @@
+LLOYDS BANKING GROUP PLC INTERNAL RISK PROFILE & COMPLIANCE FRAMEWORK – 2025
+Prepared by: Group Risk Committee & Board Risk Committee
+Date: 13 February 2026
+
+OVERALL RISK APPETITE STATEMENT:
+--------------------------------
+"The Group does not tolerate non-adherence to regulatory and legal requirements. All colleagues employed by the Group are expected to comply with legal and regulatory obligations, requirements, statutes and permissions. Where inadvertent instances of non-compliance occur, these are promptly addressed with corrective action to minimise exposure and avoid recurrence."
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK (ERMF) – PRINCIPAL RISKS:
+-----------------------------------------------------------------
+The ERMF defines the following Principal Risks:
+
+1. CAPITAL RISK: The risk that an insufficient quantity or quality of capital is held to meet regulatory requirements or to support business strategy.
+   - CET1 ratio target: c.13.0% (includes management buffer of c.1%)
+   - Capital generation 2025: 147bps (178bps excluding motor finance charge)
+   - Pro forma CET1 at year-end: 13.2%
+
+2. CLIMATE RISK: The risk from the impacts of climate change and the transition to net zero.
+   - Physical risks: acute events (floods, storms), chronic hazards (sea level rise)
+   - Transition risks: policy changes, technology shifts, litigation, greenwashing
+   - 2030 financed emissions targets (from 2020 baseline):
+     * UK mortgages: -35% intensity (to 30kgCO2e/m²) – Progress: 42kgCO2e/m² (8%↓ from 2023)
+     * Commercial real estate: -43% intensity (to 22kgCO2e/m²) – Progress: 34kgCO2e/m² (11%↓ from 2023)
+     * Retail motor: -48% intensity (to 82gCO2e/km) – Progress: 132gCO2e/km (2%↓ from 2023)
+     * Agriculture: -23% absolute (to 5.1MtCO2e) – Progress: 5.4MtCO2e (13%↓ from 2023)
+     * Oil & gas: -50% absolute (to 3.6MtCO2e) – Progress: 1.6MtCO2e (59%↓ from 2023)
+
+3. COMPLIANCE RISK: The risk of financial penalties, regulatory censure, criminal or civil enforcement action as a result of failure to comply with regulatory and/or legal requirements.
+   - Focus areas: motor finance redress scheme, financial crime controls, Consumer Duty
+
+4. CONDUCT RISK: The risk of the Group's activities having an adverse impact on outcomes for customers, undermining market integrity or distorting competition.
+   - Motor finance provision: £1,950m (as at 31 Dec 2025, including £800m added in 2025)
+   - FCA consultation on redress scheme ongoing (expected final rules March 2026)
+
+5. CREDIT RISK: The risk that parties with whom the Group has contracted fail to meet their financial obligations.
+   - Underlying impairment charge: £795m (up from £433m in 2024)
+   - Total ECL allowance: £3,228m (down from £3,481m in 2024)
+   - Stage 2 loans: 9.4% of total lending (down from 10.4%)
+   - Stage 3 loans: 1.7% of total lending (down from 2.0%)
+
+6. ECONOMIC CRIME RISK: The risk of ineffective policies, systems, processes and controls to prevent, detect and respond to fraud and/or financial crime.
+   - External fraud accounts for 91% of operational risk events by volume
+   - Two new Board-level risk appetite metrics introduced in 2025 (sanctions and fraud)
+
+7. INSURANCE UNDERWRITING RISK: The risk of adverse developments in liabilities due to timing, frequency and severity of claims.
+   - Life & pensions sales (PVNBP): £21,047m (up 15%)
+   - General insurance combined ratio: 89% (down from 97%)
+   - Weather-related claims: £111m (up from £82m)
+
+8. LIQUIDITY RISK: The risk that the Group has insufficient financial resources to meet its commitments as they fall due.
+   - LCR: 145% (well above 100% requirement)
+   - NSFR: 124%
+   - Loan:deposit ratio: 97%
+
+9. MARKET RISK: The risk that the Group's capital or earnings profile are adversely affected by changes in market rates or prices.
+   - Structural hedge: £244bn (up from £242bn)
+   - Average daily trading VaR (95% 1-day): £2.2m
+
+10. MODEL RISK: The potential for adverse consequences from model errors or the inappropriate use of modelled outputs.
+    - AI governance frameworks being enhanced
+    - Model validation required for all material models
+
+11. OPERATIONAL RISK: The risk of actual or potential impact resulting from inadequate or failed internal processes, people and systems.
+    - 91% of events by volume are external fraud
+    - 81% of losses by value are "Clients, products and business practices" (conduct-related)
+    - Total operational risk losses: within appetite
+
+MATERIAL EXISTING AND EMERGING RISKS:
+---------------------------------------
+i) Economic environment: UK GDP growth estimated at 1.4% in 2025, forecast 1.2% in 2026
+ii) Geopolitical uncertainty: US trade tariffs, conflicts in Ukraine and Middle East
+iii) Regulatory change: Basel 3.1 implementation (expected 1 Jan 2027), ring-fencing reforms
+iv) Technology and AI: Generative AI risks, cyber security threats
+v) Climate transition: Policy uncertainty, technology availability, grid decarbonisation
+vi) Motor finance: FCA redress scheme consultation, potential compensation costs
+
+KEY RISK METRICS & PERFORMANCE:
+-------------------------------
+Credit Quality:
+- UK mortgages portfolio: £323.1bn (up from £313.1bn)
+- Credit cards: £17.3bn (up from £16.2bn)
+- UK Motor Finance: £16.4bn (up from £15.6bn)
+- Commercial Banking: £91.1bn (up from £88.5bn)
+
+Expected Credit Loss (ECL) by scenario:
+- Upside (30% weight): £2,466m
+- Base case (30% weight): £2,862m
+- Downside (30% weight): £3,672m
+- Severe downside (10% weight): £5,275m
+- Probability-weighted total: £3,228m
+
+Sensitivity analysis:
+- 1pp increase in unemployment: +£148m ECL
+- 10pp decrease in HPI: +£261m ECL (UK mortgages)
+
+REGULATORY AND COMPLIANCE OVERSIGHT:
+-------------------------------------
+Primary Regulators:
+- Prudential Regulation Authority (PRA) – prudential supervision
+- Financial Conduct Authority (FCA) – conduct regulation
+
+Current Areas of Regulatory Focus:
+- Motor finance commission redress scheme (£1.95bn provision raised)
+- Financial crime systems and controls
+- Operational resilience and cyber security
+- Consumer Duty implementation
+- Sustainability disclosures and anti-greenwashing
+
+Litigation and Conduct Provisions:
+- Total provisions as at 31 December 2025: £2,888m
+- Motor finance redress: £1,950m (increase from £1,150m in 2024)
+- HBOS Reading review: ongoing
+- Other regulatory and legal matters: £326m
+
+CAPITAL ADEQUACY ASSESSMENT:
+----------------------------
+The Group's total capital requirement (TCR) as at 31 December 2025 was £24,735m, comprising:
+- Pillar 1 minimum: 8.0% of RWAs
+- Pillar 2A: c.2.5% of RWAs (of which CET1 requirement: c.1.4%)
+- Combined buffer requirement: CCB 2.5% + CCyB c.1.8% + O-SII buffer 2.0% (1.6% at Group)
+
+Capital generation 2025: 147bps (178bps excluding motor finance charge)
+The Board intends to pay down to CET1 target of c.13.0% by end of 2026.
+
+STRESS TESTING:
+---------------
+The Group participated in the 2025 Bank of England Bank Capital Stress Test. The scenario tested:
+- UK GDP fall of 5%
+- Unemployment peak of 8.1%
+- Inflation surge to 8%
+- Interest rates peak at 8%
+Result: The Group passed the stress test, performing strongly, with no capital actions required.
+
+PENSION RISK:
+-------------
+Defined benefit pension schemes:
+- Net surplus: £2,612m (up from £2,575m in 2024)
+- Total assets: £29.2bn
+- Defined benefit obligation: £26.6bn
+- Discount rate: 5.57%
+- Inflation rate (RPI): 2.65%
+- Life expectancy at 60: Males 26.5 years, Females 28.6 years
+
+RISK CULTURE STATEMENT:
+-----------------------
+"The Group's culture, guided by the Group's values, is fundamental to its purpose of Helping Britain Prosper and its strategic objectives. Leaders shape and embed a supportive risk culture of accountability, strong customer focus, intellectual curiosity, innovation and proactive risk management."

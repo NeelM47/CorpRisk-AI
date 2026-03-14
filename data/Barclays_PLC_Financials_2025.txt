@@ -1,0 +1,135 @@
+BARCLAYS PLC CONSOLIDATED FINANCIAL STATEMENTS – FISCAL YEAR 2025
+Company: Barclays PLC
+Sector: Banking & Financial Services (Universal Bank)
+Headquarters: London, UK
+Reporting Date: 9 February 2026
+
+CONSOLIDATED INCOME STATEMENT (in £ millions)
+------------------------------------------------
+For the year ended 31 December 2025
+
+Net interest income: 14,501
+Net fee and commission income: 7,498
+Net trading income: 7,042
+Net investment income: 10
+Other income: 89
+TOTAL INCOME: 29,140
+
+Staff costs: (10,607)
+Infrastructure costs: (3,704)
+Administration and general expenses: (2,729)
+UK regulatory levies: (313)
+Litigation and conduct: (392)
+TOTAL OPERATING EXPENSES: (17,745)
+
+Profit before impairment: 11,418
+Credit impairment charges: (2,279)
+PROFIT BEFORE TAX: 9,139
+Tax charge: (1,926)
+PROFIT AFTER TAX: 7,213
+Attributable to ordinary equity holders: 6,175
+
+Basic earnings per share: 43.8p
+Return on tangible equity (RoTE): 11.3%
+Cost:income ratio: 61%
+
+CONSOLIDATED BALANCE SHEET (in £ millions)
+------------------------------------------
+As at 31 December 2025
+
+ASSETS
+Cash and balances at central banks: 229,752
+Cash collateral and settlement balances: 130,532
+Debt securities at amortised cost: 68,475
+Loans and advances at amortised cost to banks: 8,638
+Loans and advances at amortised cost to customers: 352,885
+Reverse repurchase agreements: 17,622
+Trading portfolio assets: 190,061
+Financial assets at fair value through income: 186,857
+Derivative financial instruments: 252,459
+Financial assets at fair value through OCI: 74,394
+Other assets: 32,490
+TOTAL ASSETS: 1,544,165
+
+LIABILITIES
+Deposits at amortised cost from banks: 20,413
+Deposits at amortised cost from customers: 565,200
+Cash collateral and settlement balances: 117,583
+Repurchase agreements: 25,170
+Debt securities in issue: 119,033
+Subordinated liabilities: 12,954
+Trading portfolio liabilities: 57,737
+Financial liabilities designated at fair value: 294,108
+Derivative financial instruments: 240,808
+Other liabilities: 12,923
+TOTAL LIABILITIES: 1,465,929
+
+EQUITY
+Called up share capital and share premium: 4,178
+Other equity instruments (AT1): 12,725
+Other reserves: 1,628
+Retained earnings: 59,253
+Total equity excluding non-controlling interests: 77,784
+Non-controlling interests: 452
+TOTAL EQUITY: 78,236
+
+Net asset value per share: 469p
+Tangible net asset value per share: 409p
+Number of ordinary shares (millions): 13,867
+Year-end USD exchange rate: 1.34
+
+DIVISIONAL BREAKDOWN – PROFIT BEFORE TAX (in £ millions)
+----------------------------------------------------------
+Barclays UK: 3,413
+UK Corporate Bank: 970
+Private Bank & Wealth Management: 375
+Investment Bank: 4,614
+US Consumer Bank: 515
+Head Office: (748)
+GROUP TOTAL: 9,139
+
+KEY METRICS BY DIVISION – RETURN ON TANGIBLE EQUITY (RoTE)
+------------------------------------------------------------
+Barclays UK: 20.7%
+UK Corporate Bank: 18.9%
+Private Bank & Wealth Management: 26.3%
+Investment Bank: 10.6%
+US Consumer Bank: 11.0%
+
+LOAN LOSS RATES (in basis points)
+----------------------------------
+Barclays UK: 18bps
+UK Corporate Bank: 12bps
+Private Bank & Wealth Management: (5)bps
+Investment Bank: 23bps
+US Consumer Bank: 496bps
+GROUP AVERAGE: 52bps
+
+CREDIT IMPAIRMENT CHARGES BY SEGMENT (in £ millions)
+-----------------------------------------------------
+Retail mortgages: (42)
+Retail credit cards: 1,415
+Retail other: 254
+Corporate loans: 485
+Other movements: 167
+TOTAL CREDIT IMPAIRMENT CHARGE: 2,279
+
+CAPITAL RATIOS
+--------------
+Common Equity Tier 1 (CET1) ratio: 14.3%
+Tier 1 capital ratio: 17.9%
+Total regulatory capital ratio: 20.4%
+UK leverage ratio: 5.1%
+Risk-weighted assets (RWAs): £356.8bn
+
+FUNDING & LIQUIDITY
+-------------------
+Liquidity Coverage Ratio: 170%
+Net Stable Funding Ratio: 135%
+Liquidity pool: £338bn
+Loan:deposit ratio: 73%
+
+INTEREST RATE SENSITIVITY
+-------------------------
+Net interest income sensitivity to +25bps: £(5)m
+Net interest income sensitivity to -25bps: £(6)m

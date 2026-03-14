@@ -1,0 +1,52 @@
+LLOYDS BANKING GROUP AML & FINANCIAL CRIME POLICY – 2025
+Applicable to all Banking and Commercial Divisions
+
+1. CUSTOMER DUE DILIGENCE (CDD)
+--------------------------------
+- All corporate clients must provide proof of incorporation, beneficial ownership (>25%), and source of funds.
+- Enhanced Due Diligence (EDD) required for:
+  a) Clients operating in high-risk jurisdictions (see Appendix A).
+  b) Clients with complex ownership structures (shell companies, trusts).
+  c) Politically Exposed Persons (PEPs) and their associates.
+  d) Clients in sectors with elevated money laundering risk.
+
+2. TRANSACTION MONITORING
+-------------------------
+- Any single transaction exceeding $10,000 must be reviewed for AML flags.
+- Multiple transactions within 30 days cumulatively exceeding $20,000 to/from high-risk jurisdictions trigger EDD.
+- Wire transfers to/from countries in Appendix A must be screened against sanctions lists.
+- Suspicious transactions are subject to investigation, customer contact, and potential rejection.
+
+3. HIGH-RISK JURISDICTIONS (Appendix A)
+----------------------------------------
+- Bermuda
+- Cayman Islands
+- British Virgin Islands
+- Panama
+- UAE
+- Any country on FATF grey list.
+
+4. RED FLAGS
+------------
+- Unexplained large wire transfers from offshore jurisdictions
+- Transactions involving shell companies or opaque offshore accounts
+- Inconsistencies between stated business activity and transaction patterns
+- Previous AML compliance issues or regulatory actions
+- Beneficial ownership structures involving trusts in high-risk jurisdictions
+
+5. ESCALATION
+-------------
+- If any red flag identified, file Suspicious Activity Report (SAR) within 24 hours.
+- Material breaches of economic crime legislation have zero tolerance.
+
+6. FRAUD PREVENTION
+-------------------
+- Fraud detection systems operate on all transactions (450m+ UK payments per month)
+- Authorised Push Payment (APP) scams: reimbursement required for qualifying victims
+- Geopolitical instability and evolving threat landscape require enhanced vigilance
+
+7. SANCTIONS COMPLIANCE
+------------------------
+- Zero tolerance for breaches of sanctions regulations
+- All payments screened against UN, EU, UK, and US sanctions lists
+- In certain circumstances, risk appetite may be more conservative than legal obligations

@@ -1,0 +1,96 @@
+GLOBALBANK FINANCIAL SERVICES – FISCAL YEAR 2025
+Company: GlobalBank Financial Services Inc.
+Sector: Banking & Financial Services
+Headquarters: London, UK
+Reporting Date: 31 December 2025
+
+CONSOLIDATED INCOME STATEMENT (in £ millions)
+------------------------------------------------
+Net interest income: 8,450
+Net fee and commission income: 3,200
+Net trading income: 1,150
+Other income: 200
+TOTAL INCOME: 13,000
+
+Staff costs: (4,200)
+Operating expenses: (3,500)
+Regulatory costs: (120)
+Litigation and conduct: (5)
+TOTAL OPERATING EXPENSES: (7,825)
+
+Profit before impairment: 5,175
+Credit impairment charges: (350)
+PROFIT BEFORE TAX: 4,825
+Tax charge: (1,060)
+PROFIT AFTER TAX: 3,765
+Attributable to ordinary equity holders: 3,200
+
+Basic earnings per share: 32.5p
+Return on tangible equity: 12.8%
+Cost:income ratio: 60%
+
+CONSOLIDATED BALANCE SHEET (in £ millions)
+------------------------------------------
+As at 31 December 2025
+
+ASSETS
+Cash and balances at central banks: 85,000
+Loans and advances to customers: 210,000
+Debt securities: 45,000
+Trading portfolio assets: 60,000
+Derivative financial instruments: 40,000
+Other assets: 25,000
+TOTAL ASSETS: 465,000
+
+LIABILITIES
+Deposits from customers: 320,000
+Deposits from banks: 15,000
+Debt securities in issue: 45,000
+Derivative financial liabilities: 38,000
+Other liabilities: 20,000
+TOTAL LIABILITIES: 438,000
+
+EQUITY
+Share capital: 5,000
+Retained earnings: 22,000
+TOTAL EQUITY: 27,000
+
+CAPITAL RATIOS
+--------------
+CET1 ratio: 14.8%
+Total capital ratio: 19.2%
+Leverage ratio: 5.4%
+Risk-weighted assets: £182bn
+
+FUNDING & LIQUIDITY
+-------------------
+Liquidity Coverage Ratio: 165%
+Net Stable Funding Ratio: 140%
+Loan:deposit ratio: 66%
+
+RISK PROFILE
+------------
+Loan Loss Rate: 22bps
+Credit impairment charges: £350m (primarily due to normalised consumer credit cycle)
+Geographic concentration: 85% UK, 10% EU, 5% North America
+
+REGULATORY COMPLIANCE
+---------------------
+All regulatory requirements met.
+No open enforcement actions.
+No material litigation or conduct provisions.
+FCA and PRA assessments: "Fully compliant with all requirements."
+
+CLIMATE AND SUSTAINABILITY
+--------------------------
+Financed emissions: 12.4 MtCO2e (down 15% from 2020 baseline)
+Sustainable finance facilitated 2023-2025: £45bn
+Net zero operations: Achieved 95% reduction in Scope 1 and 2 emissions
+Renewable electricity sourcing: 100%
+
+TRANSACTIONS REVIEW
+-------------------
+- All significant transactions conducted with counterparties in UK, EU, and US (low-risk jurisdictions)
+- No single transaction > £5m without board-level approval
+- All beneficial ownership structures transparent and verified
+- No transactions with entities in high-risk jurisdictions (FATF grey list)

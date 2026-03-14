@@ -1,0 +1,198 @@
+TECHCORP SOLUTIONS INC. – COMPLETE FINANCIAL STATEMENTS 2025
+Company: TechCorp Solutions Inc.
+Sector: Software & IT Services
+Headquarters: 1209 Orange Street, Wilmington, Delaware 19801, USA
+Incorporation: Delaware, USA
+Reporting Date: 31 December 2025
+Reporting Currency: USD (thousands, unless stated)
+
+AUDITOR'S OPINION: Unqualified opinion issued by Deloitte & Touche LLP, dated 15 February 2026.
+
+CONSOLIDATED INCOME STATEMENT
+For the year ended 31 December 2025
+------------------------------------------------------------
+                                     2025           2024
+Revenue                              145,000        132,500
+Cost of goods sold                    (78,500)       (71,200)
+Gross profit                           66,500         61,300
+
+Operating expenses:
+  Selling, general & administrative   (42,300)       (39,800)
+  Research & development               (8,200)        (7,500)
+  Depreciation & amortization          (2,500)        (2,300)
+Total operating expenses               (53,000)       (49,600)
+
+Operating income                        13,500         11,700
+Interest expense                        (1,200)        (1,000)
+Other income (expense)                      200           (50)
+Income before tax                        12,500         10,650
+Income tax expense                       (2,500)        (2,130)
+Net income                               10,000          8,520
+═══════════════════════════════════════════════════════════
+
+Earnings per share (basic)                  $2.50          $2.13
+Weighted average shares outstanding     4,000,000      4,000,000
+
+CONSOLIDATED BALANCE SHEET
+As at 31 December 2025
+------------------------------------------------------------
+ASSETS                                    2025           2024
+Current assets:
+  Cash and cash equivalents               22,300         18,500
+  Accounts receivable                     18,700         16,200
+  Inventory                                4,200          3,800
+  Prepaid expenses                         1,800          1,500
+Total current assets                       47,000         40,000
+
+Non-current assets:
+  Property, plant & equipment              35,000         32,000
+  Goodwill                                 12,000         12,000
+  Intangible assets                         8,500          7,200
+  Deferred tax assets                       2,300          2,000
+Total non-current assets                    57,800         53,200
+
+TOTAL ASSETS                              104,800         93,200
+═══════════════════════════════════════════════════════════
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable                         11,200          9,800
+  Accrued expenses                          5,500          4,900
+  Short‑term debt                           8,000          6,000
+  Current portion of long‑term debt          2,500          2,200
+Total current liabilities                   27,200         22,900
+
+Long‑term liabilities:
+  Long‑term debt                            35,000         30,000
+  Deferred tax liabilities                   1,800          1,600
+Total long‑term liabilities                  36,800         31,600
+
+Total liabilities                           64,000         54,500
+
+Shareholders' equity:
+  Common stock ($0.01 par value)               40             40
+  Additional paid‑in capital                20,260         20,260
+  Retained earnings                         20,500         18,400
+Total shareholders' equity                   40,800         38,700
+
+TOTAL LIABILITIES AND EQUITY               104,800         93,200
+═══════════════════════════════════════════════════════════
+
+CONSOLIDATED STATEMENT OF CASH FLOWS
+For the year ended 31 December 2025
+------------------------------------------------------------
+Cash flows from operating activities:
+  Net income                                               10,000
+  Adjustments:
+    Depreciation & amortization                              2,500
+    Deferred taxes                                            (500)
+    Changes in working capital:
+      Accounts receivable                                   (2,500)
+      Inventory                                               (400)
+      Accounts payable                                       1,400
+Net cash provided by operating activities                   10,500
+
+Cash flows from investing activities:
+  Purchase of property, plant & equipment                   (5,000)
+  Acquisition of intangible assets                           (1,500)
+Net cash used in investing activities                       (6,500)
+
+Cash flows from financing activities:
+  Proceeds from long‑term debt                               7,000
+  Repayment of short‑term debt                              (2,000)
+  Dividends paid                                            (5,900)
+Net cash used in financing activities                         (900)
+
+Net increase in cash and equivalents                         3,100
+Cash and equivalents at beginning of year                   18,500
+Cash and equivalents at end of year                         21,600*
+════════════════════════════════════════════════════════════════
+*Note: Cash balance per balance sheet differs due to rounding.
+
+SIGNIFICANT TRANSACTIONS AND EVENTS – 2025
+------------------------------------------------------------
+1. On 15 January 2025, TechCorp received a wire transfer of
+   $8,500,000 from "Shield Holdings Ltd", a company incorporated
+   in the Cayman Islands with registered address at Ugland House,
+   Grand Cayman. No public information is available on Shield
+   Holdings' ultimate beneficial owners.
+
+2. In March 2025, TechCorp repatriated $2,100,000 from its wholly‑owned
+   subsidiary in Bermuda (TechCorp Bermuda Ltd.) as a dividend.
+   The funds were used for general corporate purposes.
+
+3. On 1 July 2025, TechCorp acquired 60% of the outstanding shares of
+   "DataMind AI", a privately held artificial intelligence startup,
+   for $15,000,000. The acquisition was financed through a combination
+   of existing cash and a new $10,000,000 term loan from a syndicate
+   of banks (see Note 5 – Debt).
+
+4. During Q4 2025, TechCorp entered into a software licensing agreement
+   with a Dubai‑based entity, "Gulf Tech Solutions FZCO", involving
+   annual payments of $3,000,000. Enhanced due diligence was performed
+   (see Risk Factors).
+
+NOTE 5 – DEBT
+------------------------------------------------------------
+Long‑term debt at year‑end includes a $10,000,000 term loan drawn in
+July 2025 to finance the DataMind AI acquisition. The loan bears
+interest at SOFR + 3.5% and matures in 2030.
+
+Additionally, TechCorp maintains a $15,000,000 revolving credit facility
+with a UK‑based bank; $5,000,000 was drawn at year‑end (included in
+short‑term debt).
+
+NOTE 6 – RELATED PARTY TRANSACTIONS
+------------------------------------------------------------
+During 2025, TechCorp made payments totaling $1,200,000 to "Tamarack
+Consulting", a firm owned by a trust whose beneficiaries include a
+sibling of TechCorp's CEO. The transactions were approved by the
+Audit Committee and are considered arm's‑length.
+
+RISK FACTORS – MANAGEMENT'S DISCUSSION AND ANALYSIS
+------------------------------------------------------------
+The Company operates in several jurisdictions that are considered
+high‑risk for money laundering and tax evasion, including Bermuda
+and the Cayman Islands. Management has implemented enhanced
+compliance procedures, but these operations expose the Company to
+reputational and regulatory risks.
+
+The repatriated dividend from Bermuda and the receipt of a large
+wire from an opaque Cayman Islands entity may trigger enhanced
+scrutiny from financial partners and regulators. The Company has
+disclosed these transactions to its banking partners and has
+provided documentation of source of funds to the extent available.
+
+In 2024, the Company paid a fine of $75,000 to the UK Financial
+Conduct Authority for delayed reporting of suspicious transactions
+related to its prior year operations. Management believes that
+current controls are adequate to prevent recurrence.
+
+Beneficial ownership of TechCorp is complex: approximately 40% of
+voting shares are held through a discretionary trust domiciled in
+the Cayman Islands, the "TechCorp 2005 Family Trust". The trustees
+are a licensed trust company in George Town, Cayman Islands. The
+ultimate beneficiaries are descendants of the founder, but the
+trust structure does not publicly disclose individual names.
+
+The Company relies on several offshore service providers for
+accounting and legal support, located in Panama and the British
+Virgin Islands. While these relationships are managed under service
+agreements, they introduce additional compliance complexity.
+
+FORWARD‑LOOKING STATEMENTS
+------------------------------------------------------------
+This report contains forward‑looking statements regarding TechCorp's
+future financial performance, which are subject to risks and
+uncertainties, including those related to global economic conditions,
+regulatory changes, and the successful integration of DataMind AI.
+Actual results may differ materially.
+
+───
+TechCorp Solutions Inc. confirms that this information is accurate
+as of the date of this report.
+
+/s/ John D. Smith
+John D. Smith
+Chief Financial Officer
+18 February 2026

@@ -1,0 +1,165 @@
+BARCLAYS PLC INTERNAL RISK PROFILE & COMPLIANCE FRAMEWORK – 2025
+Prepared by: Group Risk Committee & Board Risk Committee
+Date: 9 February 2026
+
+OVERALL RISK APPETITE STATEMENT:
+--------------------------------
+"Barclays has no appetite for Financial Crime Risk issues and events that are material, systemic, not promptly remediated, not reported to regulators in a timely manner where required, and/or are likely to result in regulatory enforcement."
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK (ERMF) – PRINCIPAL RISKS:
+-----------------------------------------------------------------
+The ERMF defines 10 Principal Risks that the Group must manage:
+
+1. CLIMATE RISK: The risk of financial losses arising from climate change through physical risks and risks associated with transitioning to a lower carbon economy.
+   - Physical risks: acute events (floods, hurricanes, wildfires) and chronic hazards (sea level rise, heat stress)
+   - Transition risks: policy changes, technology shifts, consumer sentiment, litigation
+
+2. CREDIT RISK: The risk of loss from failure of clients, customers or counterparties to fully honour their obligations.
+   - Key exposures: UK mortgages (£177bn), credit cards (£37bn), corporate loans (£133bn)
+   - Elevated risk sectors: Energy, Transportation, Materials & Buildings, Agriculture
+
+3. MARKET RISK: The risk of loss from adverse changes in value due to market variables.
+   - Average daily Value at Risk (VaR): £18m (95% confidence, one-day holding)
+
+4. TREASURY & CAPITAL RISK: The risk of insufficient capital or liquidity to support business activities.
+   - Liquidity Coverage Ratio maintained at 170% (well above 100% requirement)
+   - CET1 ratio of 14.3% (within target range of 13-14%)
+
+5. OPERATIONAL RISK: The risk of loss from inadequate or failed processes, systems, human factors or external events.
+   - 2025 operational risk losses: £143m (up from £127m in 2024)
+   - 2,943 recorded events (increase from 2,392 in 2024)
+   - External fraud accounts for 51% of losses; Execution, Delivery & Process Management accounts for 49%
+
+6. MODEL RISK: The potential for adverse consequences from decisions based on incorrect or misused model outputs.
+   - AI governance frameworks being enhanced
+   - Model validation required every three years minimum
+
+7. COMPLIANCE RISK: The risk of poor outcomes for customers, clients and markets from delivery of products and services.
+   - Includes conduct risk, customer protection, data privacy, regulatory compliance
+
+8. FINANCIAL CRIME RISK: The risk that the Group or its associated persons commit or facilitate financial crime.
+   - Elevated to a Principal Risk effective 1 January 2025
+   - Covers anti-bribery & corruption, anti-money laundering, tax evasion facilitation, sanctions
+
+9. REPUTATION RISK: The risk that an action, transaction or event reduces trust in the Group's integrity or competence.
+   - Key concerns: financing of sensitive sectors, human rights, association with controversial industries
+
+10. LEGAL RISK: The risk of loss from failure to meet applicable laws, rules, regulations or contractual requirements.
+
+MATERIAL EXISTING AND EMERGING RISKS:
+---------------------------------------
+i) Business conditions, general economy and geopolitical issues
+   - US trade policies and tariff uncertainty
+   - UK structural economic challenges
+   - EU productivity and competitiveness concerns
+   - China property market and deflation risks
+
+ii) The impact of interest rate changes on profitability
+    - Rate cuts pressure net interest margins
+    - Higher-for-longer rates stress borrower affordability
+
+iii) Competition in the banking and financial services industry
+     - FinTech disruption
+     - AI-driven competitors
+     - Payments disintermediation
+
+iv) Regulatory change agenda and impact on business model
+    - Basel 3.1 implementation (delayed to 1 January 2027)
+    - UK ring-fencing reforms
+    - Consumer Duty requirements
+    - Sustainability disclosure regulations (TCFD, CSRD)
+
+v) Change delivery and execution risks
+    - Strategic transformation programmes
+    - Technology modernisation
+    - Cost efficiency targets
+
+vi) Evolving landscape with respect to artificial intelligence
+    - Generative and agentic AI risks
+    - AI governance and regulatory compliance (EU AI Act)
+    - Cybersecurity threats from AI-enabled attacks
+
+KEY RISK METRICS & PERFORMANCE:
+-------------------------------
+Climate Risk:
+- Financed emissions reduction targets (2030):
+  * Upstream Energy: -41% (absolute) – target achieved
+  * Power: -35% (intensity) – target achieved
+  * Cement: -13% (intensity)
+  * Steel: -30% (intensity)
+  * Automotive: -3% (intensity)
+  * Aviation: -2% (intensity)
+  * UK Agriculture: -13% (absolute)
+  * UK Commercial Real Estate: -6% (intensity)
+
+Operational Risk Events (by Basel category):
+- External fraud: 86% of events by count, 51% by value
+- Execution, delivery & process management: 14% of events by count, 49% by value
+
+Cyber Security:
+- Elevated cybersecurity risk profile due to AI-enabled attacks
+- Third-party supplier vulnerabilities
+- 24/7 Joint Operations Centres (JOCs) in three global locations
+- ISO 27001 certification held
+
+REGULATORY AND COMPLIANCE OVERSIGHT:
+-------------------------------------
+Primary Regulators:
+- Prudential Regulation Authority (PRA) – prudential supervision
+- Financial Conduct Authority (FCA) – conduct regulation
+- Federal Reserve Board (FRB) – US operations
+- European Central Bank (ECB) – EU operations (via Barclays Bank Ireland)
+
+Current Areas of Regulatory Focus:
+- Motor finance redress scheme (FCA consultation, £235m provision raised in Q325)
+- Financial crime systems and controls
+- Operational resilience and cyber security
+- Consumer Duty implementation
+- Sustainability disclosures and anti-greenwashing
+
+Litigation and Conduct Provisions:
+- Total provisions as at 31 December 2025: £1,664m
+- Legal, competition and regulatory matters: £190m
+- Motor finance redress: £325m (increase from £90m in 2024)
+- Customer redress: £41m
+- Redundancy and restructuring: £79m
+- Onerous contracts: £395m
+- Sundry provisions: £543m
+
+CAPITAL ADEQUACY ASSESSMENT:
+----------------------------
+ICAAP (Internal Capital Adequacy Assessment Process) Conclusion:
+The Group remains well-capitalised with CET1 ratio of 14.3%, above the combined requirement of:
+- Pillar 1 minimum: 4.5%
+- Capital Conservation Buffer: 2.5%
+- G-SII buffer: 1.5%
+- Pillar 2A: 2.7%
+- Countercyclical Capital Buffer: 1.0%
+Total CET1 requirement (excluding PRA buffer): 12.2%
+
+Reverse Stress Testing:
+The Group would remain viable under a "Global Fragmentation" scenario including:
+- UK GDP contraction of 4.8%
+- US unemployment peaking at 9%
+- 29% decline in UK house prices
+- Combined physical and transition climate shocks
+
+PENSION RISK:
+-------------
+UK Retirement Fund (UKRF):
+- Net surplus: £3,250m (Barclays Bank Section: £3,181m surplus; Barclays UK Section: £69m surplus)
+- Total assets: £21.7bn
+- Defined benefit obligation: £18.4bn
+- Discount rate: 5.46%
+- Inflation rate (RPI): 2.92%
+- Life expectancy at 60 for current pensioners: Males 26.6 years, Females 29.3 years
+- Longevity reinsurance covering 70% of current pensioner liabilities
+
+RISK CULTURE STATEMENT:
+-----------------------
+"Barclays is committed to maintaining a robust risk culture in which management expects, models and rewards the right behaviours, and colleagues identify, manage and escalate risk and control matters. This is supported by our Purpose, Values and Mindset, and by setting a standard of consistent excellence."
+
+The Barclays Way (Code of Conduct):
+- 93% of colleagues believe they and their team do a good job of role modelling Values
+- 100% of colleagues complete mandatory training on The Barclays Way
+- 81% of global respondents agreed that it is 'safe to speak up' at Barclays
