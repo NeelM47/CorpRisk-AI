@@ -1,6 +1,6 @@
 import os
-#from icecream import ic
-#ic.configureOutput(prefix=f'Debug | ', includeContext=True)
+from icecream import ic
+ic.configureOutput(prefix=f'Debug | ', includeContext=True)
 from langgraph.graph import StateGraph, END
 from typing import TypedDict, List, Literal
 from langgraph.graph import StateGraph, END
@@ -32,11 +32,10 @@ web_search_tool = TavilySearch(max_results=2)
 # 3. Define the Agents (Nodes)
 def retriever_node(state: AssessmentState):
     """Agent 1: Local DB Search"""
-    print(f"Retriever: Checking local DB for '{state['company_name']}'...")
+    print(f"🕵️ Retriever: Checking local DB for '{state['company_name']}'...")
     retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
     docs = retriever.invoke(state["company_name"])
     context = "\n".join([d.page_content for d in docs]) if docs else "NO_LOCAL_DATA"
-    #ic(context)
     return {"retrieved_context": context}
 
 def web_search_node(state: AssessmentState):
@@ -58,7 +57,7 @@ def web_search_node(state: AssessmentState):
             web_data = str(results)
 
         print("\n" + "="*50)
-        #ic(web_data[:500] + " ...[TRUNCATED]")
+        print(web_data[:500] + " ...[TRUNCATED]")
         print("="*50 + "\n")
 
     except Exception as e:
@@ -69,62 +68,91 @@ def web_search_node(state: AssessmentState):
 
 def compliance_node(state: AssessmentState):
     """Agent 3: Analyzes all data"""
-    print(" Compliance Agent: Analyzing risk vectors...")
+    print("⚖️  Compliance Agent: Analyzing risk vectors...")
     full_context = f"LOCAL DB:\n{state.get('retrieved_context', '')}\n\nWEB DATA:\n{state.get('web_context', 'NONE')}"
     
     prompt = ChatPromptTemplate.from_messages([
-        ("system", """You are an AML Compliance AI. 
-        
+        ("system", """You are an AML Compliance AI.
+
         GUARDRAILS:
-        1. NAME CHECK: If the context mentions '{company}', it is NOT an entity mismatch. 
-        2. POLICY vs ACTION: If the context is only a generic policy, but mentions '{company}', simply return an empty list or say 'No specific violations found in this policy chunk.'
-        3. MISMATCH RULE: ONLY output '- ENTITY_MISMATCH' if the context is about a completely different company name (e.g., Barclays) or if no company name is mentioned at all.
-        4. RISK EXTRACTION: Only extract risk flags if the context describes an actual investigation, suspicious financial metric, or violation specifically for '{company}'."""),
+        1. IDENTITY: If the company name '{company}' is NOT mentioned in the context at all, output ONLY: '- ENTITY_MISMATCH'.
+        2. NO RISKS: If the context is a generic policy or if no specific violations are found for '{company}', output NOTHING (an empty response).
+        3. RISK EXTRACTION: Only extract risk flags if the context describes an actual investigation, suspicious financial metric, or violation specifically for '{company}'.
+
+        Output format: A bulleted list of risks, or nothing at all."""),
         ("user", "Company: {company}\nContext: {context}")
     ])
 
     chain = prompt | llm | StrOutputParser()
     response = chain.invoke({"company": state["company_name"], "context": full_context})
     flags =[f.strip("- *") for f in response.split("\n") if f.strip()]
+    #ic(response)
+    #ic(flags)
     return {"compliance_flags": flags}
 
 def qa_evaluator_node(state: AssessmentState):
-    """Agent 4: The Supervisor/Evaluator"""
-    print("QA Agent: Evaluating compliance findings...")
-    flags = state["compliance_flags"]
+    print("🧐 QA Agent: Evaluating compliance findings...")
+    flags = state.get("compliance_flags", [])
 
-    if any("ENTITY_MISMATCH" in f for f in flags) or state.get("retrieved_context") == "NO_DATA_FOUND":
-        if not state.get("web_context"): # Don't loop forever
-            print("   -> QA: Data invalid or missing. Routing to Web Search.")
+    # 1. Did the Compliance agent flag a mismatch?
+    mismatch = any("ENTITY_MISMATCH" in f.upper() for f in flags)
+
+    # 2. Is the flags list empty? (This happens if the LLM followed Rule #2)
+    no_flags_found = len(flags) == 0
+
+    # 3. Did the retriever fail?
+    no_local_context = state.get("retrieved_context") == "NO_LOCAL_DATA"
+
+    if mismatch or no_flags_found or no_local_context:
+        # Only search if we haven't already
+        if not state.get("web_context"):
+            print("🌐 -> QA: Local data insufficient. Routing to Web Search.")
             return {"qa_status": "SEARCH_NEEDED"}
-            
+
     print("   -> QA: Data is sufficient. Proceeding to human review.")
     return {"qa_status": "PASS"}
 
 def synthesizer_node(state: AssessmentState):
-    """Agent 5: Final Report Generator"""
-    print("Synthesizer Agent: Generating final report...")
+    """Agent 5: Final Report Generator (Handles Human Overrides)"""
+    print("📝 Synthesizer Agent: Generating final report...")
+
+    company = state["company_name"]
     flags_str = ", ".join(state["compliance_flags"])
-    web_sources = state.get("web_context", "No web sources available.")
+    # Combine all evidence so the AI sees the links
+    evidence = f"LOCAL DATA:\n{state.get('retrieved_context')}\n\nWEB DATA:\n{state.get('web_context')}"
+
     if state.get("human_override"):
-        system_msg = """You are the Head of Compliance. 
-        A Senior Human Partner has issued a DIRECT OVERRIDE and approved this company.
-        
+        system_msg = f"""You are the Head of Compliance.
+        A Senior Human Partner has issued a DIRECT OVERRIDE and approved '{company}' despite the AI finding major risk flags.
+
         YOUR TASK:
-        1. Set the FINAL_DECISION to 'APPROVED (BY HUMAN OVERRIDE)'.
-        2. Acknowledge if there are any risks found online search.
-        3. Reference the web sources provided in the context.
-        4. State that the final accountability for this onboarding rests with the human approver."""
+        Write a professional Internal Memorandum.
+        1. Start with 'DECISION: APPROVED (BY HUMAN OVERRIDE)'.
+        2. Specifically list these risks found: {flags_str}.
+        3. Reference the specific evidence found in the context provided.
+        4. Explicitly state that the final legal and regulatory accountability for onboarding '{company}' rests with the human approver.
+
+        CRITICAL: DO NOT use brackets like [Insert Name]. Use the actual data provided."""
     else:
-        system_msg = "You are the Head of Compliance. Based on the flags, decide: APPROVED, REJECTED, or MANUAL_REVIEW."
+        system_msg = f"You are the Head of Compliance. Based on the flags ({flags_str}), write a professional determination for '{company}' (APPROVED or REJECTED)."
+
     prompt = ChatPromptTemplate.from_messages([
         ("system", system_msg),
-        ("user", "Write the report.")
+        ("user", f"Full Evidence Context: {evidence}")
     ])
+
     chain = prompt | llm | StrOutputParser()
-    response = chain.invoke({"flags": flags_str})
-    decision = "MANUAL_REVIEW" if "MANUAL_REVIEW" in response else "APPROVED"
-    return {"final_decision": decision, "summary": response}
+    response_text = chain.invoke({})
+
+    # --- LOGIC FIX: Sync the JSON decision with the Text ---
+    if state.get("human_override"):
+        decision = "APPROVED (BY HUMAN OVERRIDE)"
+    elif "REJECTED" in response_text.upper():
+        decision = "REJECTED"
+    else:
+        decision = "APPROVED"
+
+    return {"final_decision": decision, "summary": response_text}
 
 # 4. The Conditional Router Function
 def route_after_qa(state: AssessmentState) -> Literal["web_search", "synthesizer"]:

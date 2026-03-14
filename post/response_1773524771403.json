@@ -1,0 +1,11 @@
+{
+  "status": "PAUSED_FOR_HUMAN_REVIEW",
+  "message": "AI has finished data gathering and risk analysis. Waiting for human approval.",
+  "thread_id": "ffc87cf6-f011-4424-a288-1ab31c23e673",
+  "risk_flags_found": [
+    "Money laundering",
+    "Fraud",
+    "Auditing failures",
+    "Inconsistencies between stated business activity and transaction patterns (accounts and business model didn't make sense)"
+  ]
+}
